@@ -1,0 +1,2 @@
+#define DATE0504T2_API __declspec(dllexport)
+#define DATE0504T2_API __declspec(dllimport)
